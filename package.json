@@ -1,15 +1,28 @@
 {
   "name": "shorterurl",
-  "version": "1.0.5",
+  "version": "1.2.2",
   "description": "this package help to us to make url shortener and easier to read",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
   "keywords": [
-    "shorterurl"
+    "shorterurl",
+    "short",
+    "tiny",
+    "id",
+    "uuid",
+    "bitly",
+    "shorten",
+    "mongoid",
+    "shortid",
+    "tinyid"
   ],
-  "author": "Kasra Karami",
+  "repository": "KasraK2K/shorterurl",
+  "author": "Kasra Karami <Kasra.Karami.KK@gmail.com> (https://ias.co.ir/)",
+  "contributors": [
+    "Kaveh Karami <Kaveh.Karami.KK@gmail.com> (https://github.com/KavehKarami)"
+  ],
   "license": "MIT",
   "dependencies": {
     "sequelize": "^6.3.4",
